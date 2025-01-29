@@ -7,7 +7,6 @@ int max(int a, int b) {
     return (a > b)? a : b;
 }
 
-// Calculates THE LEAST GREATEST VALUE of two numbers passed as parameters
 int min(int a, int b) {
     return (a < b)? a : b;
 }
