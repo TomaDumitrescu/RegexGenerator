@@ -25,7 +25,6 @@ where I is in the p position. In more complex cases, I will be a union of interv
 no intervals like [a-z] are allowed, an interval will be considered as (letter1 | letter2 | etc).
 
 However, a counterexample is:
-
 Accept: ab, bc, cd, de, ea
 Fail: ba, cb, dc, ed, ae
 
